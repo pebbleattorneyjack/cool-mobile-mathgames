@@ -1,0 +1,10 @@
+{
+  "name": "Mobile GoodGames — GN Math",
+  "short_name": "GN Math",
+  "description": "Free mobile math games hub: arithmetic, fractions, algebra, geometry. No download, no sign-up.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": []
+}
